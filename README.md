@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kelly</h1>
 <h3 align="center">A passionate full stack Java developer from NYC</h3>
 
-- 🔭 I’m currently working on **a CRM using MVC framework..**
+- 🔭 I’m currently working on **a CRM using MVC framework.**
 
-- 🌱 I’m currently learning **React .**
+- 🌱 I’m currently learning **Javascript.**
 
 - 👯 I’m looking to collaborate on **any frontend design projects.**
 
 - 👨‍💻 All of my projects are available at [github.](github.)
 
-- 📄 Know about my experiences [as a per scholas alumni.](as a per scholas alumni.)
+- 📄 Know about my experiences as a per scholas alumni.
 
 - ⚡ Fun fact **I've flown a plane over the LI sound. Ask me about it.**
 
