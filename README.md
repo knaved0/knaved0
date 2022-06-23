@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelly</h1>
 <h3 align="center">A passionate full stack Java developer from NYC</h3>
 
-- 🔭 I’m currently working on **a CRM using MVC framework.**
+- 🔭 I’m currently working on **code optimization.**
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 👯 I’m looking to collaborate on **any frontend design projects.**
+- 👯 I’m open to collaborating on **frontend projects.**
 
 - 👨‍💻 All of my projects are available at [github.](github.)
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/whoknewnotme2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoknewnotme2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kelly-navedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kelly-navedo/" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/kelly-navedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kelly-navedo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
